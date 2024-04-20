@@ -1,5 +1,5 @@
 # Flocon-de-Koch
-Programme en python qui, utilisant la bibioteque Turtle pour dessiner au choix :
+Programme en python qui, utilisant la biblioteque Turtle pour dessiner au choix :
 
 -Une Spirale Carrée
 
