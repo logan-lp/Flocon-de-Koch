@@ -9,4 +9,5 @@ Programme en python qui, utilisant la biblioteque Turtle pour dessiner au choix 
 
 -Un Hexagramme
 
--Un Flocon de Koch (dont la taille est définie par l'utilisateur)
+-Des Flocons de Koch 
+
